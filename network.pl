@@ -1,6 +1,5 @@
 #!/usr/bin/perl
 #
-#
 # This script should be run every 5 minutes.
 #
 use strict;
