@@ -14,6 +14,7 @@ When you run any perl script it will create rrd data directory in local dir.
 Add them in cron to run periodically 
 
 0-59/5 * * * * /home/spatel/rrd/memory.pl >/dev/null
+
 0-59/5 * * * * /home/spatel/rrd/pmem.pl >/dev/null
 
 ## Sample Graph 
