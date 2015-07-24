@@ -16,3 +16,7 @@ Add them in cron to run periodically
 0-59/5 * * * * /home/spatel/rrd/memory.pl >/dev/null
 0-59/5 * * * * /home/spatel/rrd/pmem.pl >/dev/null
 
+## Sample Graph 
+
+![Alt text](https://raw.githubusercontent.com/satishdotpatel/rrdgraph/master/sample-graph/cpu.png "CPU Graph")
+
