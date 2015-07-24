@@ -32,8 +32,6 @@ Add them in cron to run periodically
 
 ## Process Memory
 
-## Network
-
 ![Alt text](https://raw.githubusercontent.com/satishdotpatel/rrdgraph/master/sample-graph/pmem.png "Process memory Graph")
 
 
