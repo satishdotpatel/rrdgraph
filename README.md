@@ -18,10 +18,22 @@ Add them in cron to run periodically
 
 ## Sample Graph 
 
+## CPU
+
 ![Alt text](https://raw.githubusercontent.com/satishdotpatel/rrdgraph/master/sample-graph/cpu.png "CPU Graph")
 
 ## Memory
 
 ![Alt text](https://raw.githubusercontent.com/satishdotpatel/rrdgraph/master/sample-graph/mem.png "Memory Graph")
+
+## Network
+
+![Alt text](https://raw.githubusercontent.com/satishdotpatel/rrdgraph/master/sample-graph/network.png "Network Graph")
+
+## Process Memory
+
+## Network
+
+![Alt text](https://raw.githubusercontent.com/satishdotpatel/rrdgraph/master/sample-graph/pmem.png "Process memory Graph")
 
 
