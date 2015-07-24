@@ -1,8 +1,5 @@
 #!/usr/bin/perl
 #
-# RRD script to display network statistics
-# 2003-2004,2011 (c) by Christian Garbs <mitch@cgarbs.de>
-# Licensed under GNU GPL.
 #
 # This script should be run every 5 minutes.
 #
