@@ -20,3 +20,8 @@ Add them in cron to run periodically
 
 ![Alt text](https://raw.githubusercontent.com/satishdotpatel/rrdgraph/master/sample-graph/cpu.png "CPU Graph")
 
+## Memory
+
+![Alt text](https://raw.githubusercontent.com/satishdotpatel/rrdgraph/master/sample-graph/mem.png "Memory Graph")
+
+
